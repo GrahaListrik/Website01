@@ -60,8 +60,14 @@ Primary use:
 }
 
 #styling_alamat{
-  font-size: 20px;
+  font-size: 14px;
   color: goldenrod;
+}
+.tengahkan_container{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 /*==================================================================
