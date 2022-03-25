@@ -101,10 +101,10 @@ Primary use:
 .l1-txt1 {
   font-family: Poppins-Thin;
   font-size: 72px;
-  line-height: 5.0;
+  line-height: 6.0;
   color: rgba(255,255,255,0.5);
   text-transform: uppercase;
-  letter-spacing: 15px;
+  letter-spacing: 10px;
 }
 
 .l1-txt2 {
