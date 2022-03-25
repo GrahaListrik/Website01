@@ -59,7 +59,10 @@ Primary use:
   left: 0;
 }
 
-
+#styling_alamat{
+  font-size: 20px;
+  color: goldenrod;
+}
 
 /*==================================================================
     TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
