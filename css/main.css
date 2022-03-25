@@ -41,7 +41,7 @@ Primary use:
 /*//////////////////////////////////////////////////////////////////
 [ Simple slide100 ]*/
  .simpleslide100 {
-  display: inline-flex;
+  display: block;
   position: fixed;
   z-index: 0;
   width: 100%;
