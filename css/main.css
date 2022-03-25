@@ -40,7 +40,7 @@ Primary use:
 
 /*//////////////////////////////////////////////////////////////////
 [ Simple slide100 ]*/
-.simpleslide100 {
+/* .simpleslide100 {
   display: block;
   position: fixed;
   z-index: 0;
@@ -48,7 +48,7 @@ Primary use:
   height: 100%;
   top: 0;
   left: 0;
-}
+} */
 
 .simpleslide100-item {
   display: block;
@@ -114,7 +114,6 @@ Primary use:
   color: #fff;
   text-transform: uppercase;
 }
-
 
 
 /*==================================================================
